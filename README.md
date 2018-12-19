@@ -2,7 +2,7 @@
 An Arduino example for ESP8266  MQTT client implementation on websocket layer.
 
 ## Features
-Fully customzed mqtt client over websocket layer
+Fully customized mqtt client over websocket layer
 - http://docs.oasis-open.org/mqtt/mqtt/v3.1.1/os/mqtt-v3.1.1-os.html
 
 ### Requirements
